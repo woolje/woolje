@@ -1,6 +1,6 @@
-### :wave: Hi, my name is Vladislav (@woolje).
+### :wave: Hi, I'm @woolje.
 
-:house_with_garden: I am a Python developer with 3 years of experience. I will publish open source projects on my GitHub profile.
+:bamboo: I am a Python developer with 3 years of experience. I will publish open source projects on my GitHub profile.
 
 
 
