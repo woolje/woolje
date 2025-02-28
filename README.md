@@ -1,4 +1,8 @@
-## Hi there 👋
+### :wave: Hi, my name is Vladislav (@woolje).
+
+:house_with_garden: I am a Python developer with 3 years of experience. I will publish open source projects on my GitHub profile.
+
+
 
 <!--
 **woolje/woolje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
